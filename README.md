@@ -15,5 +15,6 @@
 
 这些更新将进一步提升 Poe 平台的功能和用户体验。#Quora #AI #聊天机器人 #Poe
 
+海外大厂出品，600条GPT4，整合多个AI模型，1000条Claude-2 100K，科研论文必备文字工作者必备
 
 如果你也想尽快拥有并体验 POE AI ：[请点击我访问了解](https://wp.huinong.co/index.php/product/poe-ai-20/)
