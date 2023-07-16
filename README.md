@@ -1,4 +1,4 @@
-# POE-AI
+# 购买POE AI 7天会员使用GPT4.0和GPT4.032k、claude的AI模型
 
 ## Quora AI 聊天机器人平台 Poe 的重要更新
 ### Poe 最近宣布了一系列重要更新，让用户体验更加丰富多样：
