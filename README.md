@@ -45,10 +45,9 @@
 
 ## APIKEY 相关地址
 
-### 1、同时支持3.5/4.0：<a href="https://oneapi.huinong.co"  target="_blank">https://oneapi.huinong.co</a>
-### 2、只支持3.5：<a href="https://35api.huinong.co"  target="_blank">https://35api.huinong.co</a>
-### 3、购买余额和其它GPT服务地址：<a href="https://fk.huinong.co"  target="_blank">https://fk.huinong.co</a>
-### 4、301 回家地址：<a href="https://home.huinong.co"  target="_blank">https://home.huinong.co</a>
+### 1、同时支持3.5/4.0：<a href="https://api.tpz.pub"  target="_blank">https://api.tpz.pub</a>
+### 2、只支持3.5：<a href="https://35api.tpz.pub"  target="_blank">https://35api.tpz.pub</a> 
+### 4、301 回家地址：<a href="https://home.tpz.pub"  target="_blank">https://home.tpz.pub</a>
 
 ## 稳定运行三个月，调用次数超500万次
  
