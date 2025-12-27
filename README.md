@@ -16,9 +16,7 @@
 这些更新将进一步提升 Poe 平台的功能和用户体验。#Quora #AI #聊天机器人 #Poe
 
 海外大厂出品，600条GPT4，整合多个AI模型，1000条Claude-2 100K，科研论文必备文字工作者必备
-
-如果你也想尽快拥有并体验 POE AI ：[请点击我访问了解](https://wp.huinong.co/index.php/product/poe-ai-20/)
-
+ 
 
 # Free_ChatGPT_APIKEY
 ### Free_ChatGPT_APIKEY Supper  ChatGPT3.5/4.0 免费ChatGPT APIKEY 中转 支持ChatGPT3.5和4.0
@@ -53,10 +51,7 @@
 ### 4、301 回家地址：<a href="https://home.huinong.co"  target="_blank">https://home.huinong.co</a>
 
 ## 稳定运行三个月，调用次数超500万次
-
-### 你也可以加入WeChat群组进行沟通
-![image](https://github.com/FarmerChina/Free_ChatGPT_APIKEY/blob/main/img/wechat_group_11.jpg?raw=true)
-
+ 
 ### 如WeChat群组二维码失效可添加客服WeChat 拉入
 ![image](https://github.com/FarmerChina/Free_ChatGPT_APIKEY/blob/main/img/wechat.jpg?raw=true)
 
@@ -64,8 +59,7 @@
 #### 1、邮箱：ngt@huinong.co
 #### 2、微信：ningjinming1956 
 #### 3、Telegram：<a href="https://t.me/gptechai" target="_blank">https://t.me/gptechai</a>
-#### 4、Telegram Group: <a href="https://t.me/gptechai_china" target="_blank">https://t.me/gptechai_china</a>
-#### 5、<a href="https://wp.huinong.co/index.php/abut_me/" target="_blank">https://wp.huinong.co/index.php/abut_me/</a>二维码
+#### 4、Telegram Group: <a href="https://t.me/gptechai_china" target="_blank">https://t.me/gptechai_china</a> 
 
 ### 如果您有任何问题或需要进一步的帮助，请随时联系我们。
 
